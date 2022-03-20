@@ -1,0 +1,1 @@
+# Yugioh-Standard-Format
