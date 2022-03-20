@@ -1,6 +1,6 @@
 # Have you ever uttered the words "Yu-Gi-Oh! should have Set Rotation"?
 
-Well, here you go. If it was printed in the last 2 years, it is legal.
+Well, [here you go](https://github.com/diamonddudetcg/Yugioh-Standard-Format/releases/tag/Banlist). If it was printed in the last 2 years, it is legal.
 
 # What is the banlist?
 
