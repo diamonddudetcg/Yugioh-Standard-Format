@@ -5,5 +5,5 @@ Well, here you go.
 
 # Next updates calendar:
 
-| Speed Duel GX: Duel Academy Box release | April 1st |
-| Secret Slayers rotates out | April 2nd |
+- April 1st: Speed Duel GX: Duel Academy Box rotates in
+- April 2nd: Secret Slayers rotates out.
